@@ -1,0 +1,11 @@
+'''''''''''''''''''''''''''''''''''Borders around cells''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Dim rng As Range
+'Set rng = Range("A1:F20")
+'
+'With rng.Borders
+'.LineStyle = xlContinuous
+'.Color = vbRed
+'.Weight = xlThin
+'End With
+'
