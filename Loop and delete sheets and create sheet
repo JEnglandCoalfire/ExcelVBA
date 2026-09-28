@@ -1,0 +1,14 @@
+''''''''''''''''''''''''''''''Loop and delete sheets and create sheet
+
+'Dim ws As Worksheet
+'For Each Sheet In ThisWorkbook.Worksheets
+'If Sheet.Name = "Assessor_Map" Then
+'Sheets("Assessor_Map").Delete
+'Else
+'End If
+'Next Sheet
+'Sheets.Add.Name = "Assessor_Map"
+'
+'With Sheets("assessor_Map")
+'
+'End With
